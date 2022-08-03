@@ -1,0 +1,2 @@
+- Add wifi softap config on fail connection, 
+- Start softap config when pressed button on boot
